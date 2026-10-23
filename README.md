@@ -52,12 +52,20 @@ Also: Zend Framework and AI/LLM technologies.
 - Technical debt reduction
 - MVP development
 
+## ✍️ I write about tech
+
+I run **[CodeExecute](https://codeexecute.com)**, a practical, beginner-friendly web development platform with tutorials, working code examples and real-world fixes. I started it to help developers understand not just *what* to write, but *why*.
+
+- 📚 [Tutorials](https://codeexecute.com/tutorials) on PHP, Laravel, WordPress, JavaScript, MySQL, React and more
+- 📝 [Blog](https://codeexecute.com/blog/) posts on engineering problems and solutions
+- 🛠️ [Online Tools](https://codeexecute.com/online-tools/) and [AI Tools](https://codeexecute.com/ai-tool/) for developers
+- ❓ [Ask a Question](https://codeexecute.com/ask-a-question/) if you're stuck on something
+
 ## Let's talk
 
 If you're a founder, CTO or product leader dealing with an engineering problem that's slowing your product down, **tell me what's not working and we can start with the problem.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agrawal-ankit/)
-<!-- Add your website and email links below, for example:
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
--->
+[![Blog](https://img.shields.io/badge/Blog-CodeExecute-000000?style=for-the-badge&logo=rss&logoColor=white)](https://codeexecute.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ankit_an)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thecodeexecute/)
